@@ -6,4 +6,4 @@ I'm currently building projects to strengthen my skills in AI and software devel
 
 Feel free to connect with me via [Email](binbin.dong@student.unsw.edu.au) or [LinkedIn](https://www.linkedin.com/in/binbin-dong/).
 
-Thanks for visiting my profile!
+Thanks for visiting my profile, have a good day!
