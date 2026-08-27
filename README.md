@@ -16,4 +16,4 @@
 
 I'm Allen, a Master of IT (Artificial Intelligence) student at UNSW.
 
-Connect with me via [Email](binbin.dong@student.unsw.edu.au) or [LinkedIn](https://www.linkedin.com/in/binbin-dong/).
+Connect with me via [Email](mailto:binbin.dong@student.unsw.edu.au) or [LinkedIn](https://www.linkedin.com/in/binbin-dong/).
